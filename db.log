@@ -1,0 +1,21 @@
+2022-02-10 21:07:54,115 INFO Successfully connection to mysql
+2022-02-10 21:07:54,117 INFO Successfully create db cardataset
+2022-02-10 21:07:54,118 INFO Successfully now use cardataset db
+2022-02-10 21:07:54,149 INFO Successfully create table carbuying VARCHAR(10), maint VARCHAR(10), doors VARCHAR(10), persons VARCHAR(10), lug_boot VARCHAR(10), safety VARCHAR(10), extra VARCHAR(10)
+2022-02-10 21:07:54,149 INFO  table and cols carbuying VARCHAR(10), maint VARCHAR(10), doors VARCHAR(10), persons VARCHAR(10), lug_boot VARCHAR(10), safety VARCHAR(10), extra VARCHAR(10)
+2022-02-10 21:07:54,151 INFO show tables [('car',)]
+2022-02-10 21:07:54,155 INFO []
+2022-02-10 21:07:54,155 INFO start checking
+2022-02-10 21:07:54,157 INFO is all data loaded into table False
+2022-02-10 21:07:54,173 INFO Delete table car Successfully
+2022-02-10 21:08:42,422 INFO Successfully connection to mysql
+2022-02-10 21:08:42,424 INFO Successfully create db cardataset
+2022-02-10 21:08:42,424 INFO Successfully now use cardataset db
+2022-02-10 21:08:42,444 INFO Successfully create table carbuying VARCHAR(10), maint VARCHAR(10), doors VARCHAR(10), persons VARCHAR(10), lug_boot VARCHAR(10), safety VARCHAR(10), extra VARCHAR(10)
+2022-02-10 21:08:42,444 INFO  table and cols carbuying VARCHAR(10), maint VARCHAR(10), doors VARCHAR(10), persons VARCHAR(10), lug_boot VARCHAR(10), safety VARCHAR(10), extra VARCHAR(10)
+2022-02-10 21:08:42,446 INFO show tables [('car',)]
+2022-02-10 21:08:42,448 INFO []
+2022-02-10 21:08:42,448 INFO start checking
+2022-02-10 21:08:42,448 INFO is all data loaded into table False
+2022-02-10 21:08:42,461 INFO Delete table car Successfully
+2022-02-10 21:08:42,468 INFO Successfully delete db cardataset
